@@ -2,15 +2,15 @@
 
 # Installation
 
-## 2.1. ZSH
+## 1. ZSH
 
-### 2.2. Download and install oh my zsh
+### 1. Download and install oh my zsh
 
 ```console
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-## 2.3. NVIM, TMUX and STOW
+## 1. NVIM, TMUX and STOW
 
 
 ```console
@@ -19,7 +19,7 @@ $ brew install tmux
 $ brew install stow
 ```
 
-## 2.5. Clone and stow dotfiles
+## 1. Clone and stow dotfiles
 
 ```console
 $ git clone https://github.com/bedeschi/.dotfiles && cd .dotfiles
